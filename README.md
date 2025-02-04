@@ -12,5 +12,5 @@ cd AnalisisData_BikeSharing
 pip install pipenv
 pipenv shell
 pip install -r requirements.txt
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
