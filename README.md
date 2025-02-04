@@ -8,7 +8,7 @@ Pertama, clone repositori proyek ke komputer lokal Anda menggunakan perintah ber
 
 ```bash
 git clone https://github.com/Ikhsandi15/AnalisisData_BikeSharing.git
-cd streamlit_dashboard1
+cd AnalisisData_BikeSharing
 pip install pipenv
 pipenv shell
 pip install -r requirements.txt
